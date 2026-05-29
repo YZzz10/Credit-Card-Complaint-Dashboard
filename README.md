@@ -18,6 +18,7 @@
 - The **Trend** Chart shows complaint trends over time, with a parameter-driven filter that dynamically adjusts the time granularity between day, week, month, quarter, and year.
 - The **State-wise Complaints** map shows the geographic distribution of complaints across the United States, with the ability to switch between filled and density map views via the "Select Map" filter.
 - The **Top Issues** chart displays the top 10 complaint issues by total complaint volume.
+- The **Company Response** chart displays the distribution of response status by count and percentage of total responses.
 
 ## View Dashboard
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
