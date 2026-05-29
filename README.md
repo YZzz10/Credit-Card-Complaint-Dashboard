@@ -24,7 +24,7 @@
 <a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Process
-- The “Date Received” field was incorrectly interpreted by Tableau as a year-first format. This issue was resolved by converting the field to string and re-parsing it using DATEPARSE("dd-MMM-yy", [Date Received]) to ensure accurate time-series analysis.
+- Transformed binary categorical values into numeric encoding to facilitate quantitative analysis.
 - Missing values were handled within the dashboard by excluding null entries to ensure clarity and accuracy in the charts.
 
 ## Dashboard
