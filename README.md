@@ -1,7 +1,7 @@
 # Credit Card Complaints Dashboard
 
 ## Project Objective
-
+The objective of this project is to analyze complaint patterns across time, geography, issue types, response status, and submission channels using an interactive dashboard with key KPI tracking and visual exploration.
 
 ## Dataset Used
 <a href="https://github.com/YZzz10/Credit-Card-Complaint-Dashboard/blob/main/Credit%20Card%20Data.xlsx">Credit Card Complaint Dataset</a>
@@ -23,7 +23,7 @@
 - The **Submitted Via** chart displays the percentage of complaints submitted through different channels.
 
 ## View Dashboard
-<a href="">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
+<a href="https://public.tableau.com/app/profile/yixin.zhu3122/viz/Book1_17788051728160/CreditCardComplaintsDashboard">View Dashboard</a> (Please use “See this in Full Screen” if the dashboard elements overlap.)
 
 ## Process
 - Transformed binary categorical values into numeric encoding to facilitate quantitative analysis.
