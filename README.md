@@ -7,8 +7,13 @@
 <a href="">Customer Complaint Dataset</a>  
 <a href="">State Mapping Dataset</a>
 
-## KPI Metrics:
-
+## KPI Metrics
+- Total number of complaint records (2015–2021).
+- Number of complaints within the last 12 months based on the most recent available date in the dataset.
+- Number of complaints marked as timely responses.
+- Percentage of complaints marked as timely responses relative to total records.
+- Number of complaints marked as "In Progress".
+- Percentage of complaints marked as "In Progress" relative to total records.
 
 ## Visualization Overview
 - The Trend Chart shows complaint trends over time, with a parameter-driven filter that dynamically adjusts the time granularity between day, week, month, quarter, and year.
