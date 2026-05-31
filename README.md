@@ -33,9 +33,11 @@ The objective of this project is to analyze complaint patterns across time, geog
 <img width="1600" height="900" alt="Screenshot 2026-05-29 at 5 11 17 PM" src="https://github.com/user-attachments/assets/5483e4b6-2069-4f6c-bf74-66ec3226ed0f" />
 
 ## Project Insight
--
--
--
+- A total of 86,893 complaints were received from Dec 2015 to Apr 2021, with 20,202 complaints recorded in the most recent 12-month period based on the most recent available date in the dataset.
+- 98.90% of complaints received timely responses, 99.84% were closed, and only 0.38% remain in progress.
+- The most common issue was billing disputes (24.65%), followed by Other (15.19%) and Identity theft/Fraud/Embezzlement (13.84%).
+- California recorded the highest number of complaints (12,102), followed by New York (8,175), Florida (7,438), and Texas (5,625).
+- The majority of complaints were submitted via web (68.92%), followed by referral (16.58%) and phone (7.48%).
 
 ## Final Conclusion
 -
